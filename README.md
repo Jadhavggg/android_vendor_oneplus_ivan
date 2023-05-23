@@ -1,1 +1,0 @@
-# android_vendor_oneplus_ivan
